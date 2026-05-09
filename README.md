@@ -47,17 +47,21 @@ Aquí aplico conceptos como:
 
 # 📸 Capturas del proyecto
 
-## 💻 Código
+## ⚡ Ejecución Python
 
-![Codigo](img/codigo.png)
+![Python](img/terminal-python.png.png)
+
+---
+
+## ⚡ Ejecución Herencia
+
+![Herencia](img/terminal-herencia.png.png)
 
 ---
 
-## ⚡ Ejecución
+## ⚡ Ejecución Java
 
-![Terminal](img/terminal.png)
-
----
+![Java](img/terminal-java.png.png)
 
 # ▶️ Cómo ejecutar
 
